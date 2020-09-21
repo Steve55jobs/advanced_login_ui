@@ -2,7 +2,7 @@
 
 Advanced login ui with animations in flutter?
 
-## ScreenShots:
+## Screenhots:
 
 
 ## Packages i use:
